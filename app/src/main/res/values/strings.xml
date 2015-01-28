@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EventBus Sample</string>
+    <string name="open_second_fragment">Open second fragment</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="text_updated">I am a text being updated</string>
+    <string name="not_updated">I am a TextView with the default text</string>
+    <string name="updateText">Update text</string>
+</resources>
