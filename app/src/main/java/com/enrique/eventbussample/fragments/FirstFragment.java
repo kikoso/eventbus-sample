@@ -32,4 +32,8 @@ public class FirstFragment extends BaseFragment {
     public void firstButtonClick() {
         EventBus.getDefault().post(new ShowFragmentEvent(new SecondFragment()));
     }
+
+    public void onEvent(UpdateActionBarTitleEvent event) {
+    }
+
 }
